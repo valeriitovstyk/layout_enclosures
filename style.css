@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+div.outer {
+  background-color: #308dc0;
+  border: 1px solid #e75551;
+  width: 348px;
+  margin: 20px 20px 40px;
+}
+
+div.inner {
+  background-color: orange;
+  border: 1px solid #e75551;
+  margin: 10px;
+  padding: 10px;
+}
+
+div.text {
+  background-color: #ddd;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
